@@ -1,0 +1,40 @@
+body {
+    background: violet;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.imagempadrao {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.imagemparceiro {
+    width: 130px;
+    margin-bottom: 10px;
+}
+
+.logo {
+    width: 30px;
+    margin-bottom: -20px;
+}
